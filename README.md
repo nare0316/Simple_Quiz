@@ -24,11 +24,14 @@ Contains the list of quiz questions, multiple-choice answers, and correct answer
   "answer": The correct answer.
 
     🔖 How to Run the Quiz App
+
 ⚙️ Clone this repository
     git clone https://github.com/yourusername/quiz-app-python.git
     cd quiz-app-python
+    
 ⚙️ Install Dependencies
     If you haven't installed ttkbootstrap yet, run the following:
     pip install ttkbootstrap
+    
 ⚙️ Run the Application
     python main.py
